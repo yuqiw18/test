@@ -1,0 +1,61 @@
+{
+  "iPkgs": [
+    {
+      "identifier": "com.unity.textmeshpro",
+      "rules": [
+        "=2020.x|=3.0.0",
+        "=2019.x|=2.0.0",
+        "=2018.x|=1.3.0"
+      ]
+    },
+    {
+      "identifier": "com.unity.render-pipelines.universal",
+      "rules": [
+        "=2020.1.x|=8.2.0",
+        "=2019.4.x|=7.6.0",
+        "=2019.3.x|=7.3.0"
+      ]
+    },
+    {
+      "identifier": "com.unity.inputsystem",
+      "rules": []
+    },
+    {
+      "identifier": "com.unity.render-pipelines.high-definition",
+      "rules": []
+    },
+    {
+      "identifier" : "com.unity.2d.tilemap",
+      "rules": []
+    },
+    {
+      "identifier" : "com.unity.2d.tilemap.extras",
+      "rules": []
+    },
+    {
+      "identifier": "com.unity.cinemachine",
+      "rules": [
+        "=x|<2.4.0"
+      ]
+    }
+  ],
+  "ePkgs": [
+    {
+      "targetClass": "SpineEditorUtilities",
+      "identifier": "com.esotericsoftware.spine.spine-unity",
+      "version": "3.8.0"
+    },
+    {
+      "targetClass": "ZenjectSettings",
+      "identifier": "com.mathijsbakker.extenject",
+      "version": "8.0.0"
+    },
+    {
+      "targetClass": "DOTweenModuleUnityVersion",
+      "identifier": "DOTween",
+      "version": "1.2.235"
+    }
+  ],
+  "keywords" : "Handle,Bridge,Name,Class,Image,Map,Timer,Timers"
+}
+
