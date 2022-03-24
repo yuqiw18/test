@@ -1,0 +1,8 @@
+{
+"name": "com.yuqiw18.lunacheck",
+"version": "0.1.7",
+"displayName": "Luna Playable Compatibility Check",
+"description": "Luna Playable Compatibility Check",
+"unity": "2018.4",
+"keywords": ["Luna", "Playable", "Editor Tools"]
+}
