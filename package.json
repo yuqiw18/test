@@ -1,8 +1,8 @@
 {
 "name": "com.yuqiw18.lunacheck",
 "version": "0.1.7",
-"displayName": "Luna Playable Compatibility Check",
-"description": "Luna Playable Compatibility Check",
+"displayName": "Luna Compatibility Check",
+"description": "A simple tool to check issues that Luna developers commonly run into.",
 "unity": "2018.4",
 "keywords": ["Luna", "Playable", "Editor Tools"]
 }
